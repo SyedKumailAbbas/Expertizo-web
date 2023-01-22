@@ -1,0 +1,84 @@
+.blackbg{
+    background-color: whitesmoke;
+
+}
+.threeline{
+    background-color: white;
+}
+.margindiv{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+li>a{
+    color: blue;
+    
+}
+.list{
+    list-style: url(./images/double-tick-removebg-preview.png);
+}
+#maintxt{
+    color: white;
+}
+.div1{
+    background-image: url(./images/background1.jpg);
+    width:100%;
+    height: 800px;
+}
+#mainheading{
+    color: white;
+   padding-top: 200px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#featured{
+    padding-top: 20px;
+   font-size: 250%;
+    font-weight: bolder;
+}
+#featurehr{
+    width: 100px;
+    color: blue;
+    height: 10px;
+    border: 5px solid purple;
+    box-shadow: 0px -10px 20px 1px blue;
+   
+}
+#careerhr{
+    width: 50px;
+    color: white;
+    height: 10px;
+    border: 5px solid rgb(1, 1, 113);
+   box-shadow: 0px -10px 20px 1px blue;
+}
+.cardhead{
+    margin-top: 20px;
+}
+.circlediv{
+    padding: 60px;
+    width: fit-content;
+    border: 2px solid black;
+    border-radius: 500px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.cardcl{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+background-color: white;
+transition: 2s;
+}
+.cardcl:hover{
+    color: white;
+    background-color: rgb(133, 130, 130);
+  
+}
+.txtcd:hover{
+    transition: 1s;
+    transition-timing-function:ease-in ;
+    background-color: black;
+    color: white;
+}
+
+  
+  
